@@ -13,7 +13,6 @@ Instead of manually reading dozens of epidemiology papers, researchers can uploa
 - Structured metadata
 - Knowledge graph
 - Machine-readable JSON
-- Evidence tables
 
 The goal is to accelerate literature review, evidence synthesis, and downstream AI applications.
 
