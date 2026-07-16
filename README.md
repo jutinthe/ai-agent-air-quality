@@ -131,9 +131,9 @@ frontend/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/jutinthe/ai-agent-air-quality.git
 
-cd REPOSITORY
+cd ai-agent-air-quality
 ```
 
 ---
